@@ -4,7 +4,7 @@ import { BrowserRouter } from "react-router-dom";
 
 export const AppRouter = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <NavigationPanel></NavigationPanel>
     </BrowserRouter>
   );
