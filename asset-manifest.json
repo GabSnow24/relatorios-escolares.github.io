@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/relatorios-escolares.github.io/static/css/main.eb10005e.css",
+    "main.js": "/relatorios-escolares.github.io/static/js/main.dd258270.js",
+    "static/js/787.303e1c8c.chunk.js": "/relatorios-escolares.github.io/static/js/787.303e1c8c.chunk.js",
+    "index.html": "/relatorios-escolares.github.io/index.html",
+    "main.eb10005e.css.map": "/relatorios-escolares.github.io/static/css/main.eb10005e.css.map",
+    "main.dd258270.js.map": "/relatorios-escolares.github.io/static/js/main.dd258270.js.map",
+    "787.303e1c8c.chunk.js.map": "/relatorios-escolares.github.io/static/js/787.303e1c8c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb10005e.css",
+    "static/js/main.dd258270.js"
+  ]
+}
