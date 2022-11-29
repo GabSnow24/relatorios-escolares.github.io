@@ -16,7 +16,7 @@ jobs:
       -
         name: Install deps
         if: success()
-        run: npm install
+        run: npm install -f
       -
         name: Build
         if: success()

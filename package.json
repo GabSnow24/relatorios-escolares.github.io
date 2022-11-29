@@ -4,7 +4,7 @@
   "homepage": "https://gabsnow24.github.io/relatorios-escolares.github.io",
   "private": false,
   "dependencies": {
-    "@craco/craco": "^6.4.3",
+    "@craco/craco": "^6.4.5",
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
     "@mui/material": "^5.8.3",
