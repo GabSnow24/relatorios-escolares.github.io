@@ -1,0 +1,12 @@
+{
+  "desenha_pinta_canta": {
+    "sim": "No Campo de Experiências Traços, sons, cores e formas {{nome}} foi capaz de expressar-se livremente por meio de desenhos, pinturas, danças e músicas, ",
+    "nao": "No Campo de Experiências Traços, sons, cores e formas {{nome}} teve certa dificuldade em epressar-se livremente e demonstrou timidez para dançar, cantar e exercer outras expressões artísticas como canto desenho e pintura, ",
+    "talvez": "No Campo de Experiências Traços, sons, cores e formas {{nome}} teve certa dificuldade em epressar-se livremente e demonstrou timidez para dançar, cantar e exercer outras expressões artísticas como canto desenho e pintura, mas de todo modo conseguiu realizar tais tarefas mesmo com resistência "
+  },
+  "letra_cursiva": {
+    "sim": "Quanto à sua coordenação motora externou muita facilidade com a escrita cursiva.",
+    "nao": "Quanto à sua coordenação motora externou alguma dificuldade com a escrita cursiva.",
+    "talvez": "Quanto à sua coordenação motora externou pouca dificuldade com a escrita cursiva, mas ainda assim possui pontos de melhoria que podem ser facilmente resolvidos com a prática comum da escrita."
+  }
+}

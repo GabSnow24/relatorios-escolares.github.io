@@ -1,0 +1,7 @@
+{
+  "se_orienta": {
+    "sim": "Dentro do Campo de Experiências, espaços, tempos, quantidades e relações {{nome}} relacionou números de 0 a 100 às suas respectivas quantidades e identificando a ordem de tais itens dentro de sua sequência. Demonstrou ser capaz de identificar as formas geométricas como círculo, quadrado, triângulo e retângulo comparando com objetos vistos no dia a dia",
+    "nao": "Dentro do Campo de Experiências, espaços, tempos, quantidades e relações {{nome}} relacionou números de 0 a 100, mesmo se deparando com obstáculos durante a construção do conhecimento, às suas respectivas quantidades e identificando a ordem de tais itens dentro de sua sequência. Mas demonstrou resistência em identificar as formas geométricas como círculo, quadrado, triângulo e retângulo comparando-os com objetos vistos no dia a dia",
+    "talvez": "Dentro do Campo de Experiências, espaços, tempos, quantidades e relações {{nome}} relacionou números de 0 a 100, mesmo se deparando com obstáculos durante a construção do conhecimento, às suas respectivas quantidades e identificando a ordem de tais itens dentro de sua sequência. Mas demonstrou resistência em identificar as formas geométricas como círculo, quadrado, triângulo e retângulo comparando-os com objetos vistos no dia a dia"
+  }
+}

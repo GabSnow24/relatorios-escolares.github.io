@@ -1,0 +1,17 @@
+{
+  "solidario": {
+    "sim": "No Campo de Experiências Eu, o outro e nós {{nome}} praticou atitudes de cuidado e solidariedade para com seus colegas de sala, ",
+    "nao": "No Campo de Experiências Eu, o outro e nós {{nome}} manifestou pouca proatividade em auxiliar os coleguinhas em classe, interagindo poucas vezes com o objetivo de ajudar os outros, ",
+    "talvez": "No Campo de Experiências Eu, o outro e nós {{nome}} Tem desenvolvido sua proatividade em auxiliar os coleguinhas em classe, "
+  },
+  "confiante": {
+    "sim": "demonstrou confiança em realizar as atividades propostas, ",
+    "nao": "demonstrou resistência em realizar as atividades propostas, ",
+    "talvez": "em certos momentos demonstrou certa resistência em realizar as atividades propostas em sala, mas no geral as realizou, "
+  },
+  "compartilha_brinquedos": {
+    "sim": "e de modo geral identificou momentos de compartilhar brinquedos e objetos de uso coletivo.",
+    "nao": "e não teve o costume de compartilhar brinquedos e objetos de uso coletivo.",
+    "talvez": "e de modo geral compartilhou brinquedos e objetos de uso coletivo em certos momentos, mas nem sempre se propôs a compartilhá-los."
+  }
+}

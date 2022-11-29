@@ -1,0 +1,12 @@
+{
+  "busca_compreender": {
+    "sim": "No Campo de Experiências escuta, fala, pensamento e imaginação expressou suas emoções, buscou compreender seus coleguinhas e agiu sempre de maneira consciente, sempre empatizando com seus coleguinhas. ",
+    "nao": "No Campo de Experiências escuta, fala, pensamento e imaginação demonstrou certa oposição a expressar suas emoções, mas de modo geral buscou compreender seus coleguinhas e agiu sempre de maneira consciente, sempre empatizando com seus coleguinhas. ",
+    "talvez": "No Campo de Experiências escuta, fala, pensamento e imaginação demonstrou certa oposição a expressar suas emoções, mas de modo geral buscou compreender seus coleguinhas e agiu sempre de maneira consciente, sempre empatizando com seus coleguinhas. "
+  },
+  "conta_historias": {
+    "sim": "Quanto à sua habilidade de oratória foi capaz de contar e recontar histórias e demonstrou facilidade em se expressar.",
+    "nao": "Quanto à sua habilidade de oratória mostrou rigidez para contar e recontar histórias, também demonstrou certa dificuldade em se expressar.",
+    "talvez": "Quanto à sua habilidade de oratória mostrou rigidez para contar e recontar histórias, mas conseguiu desenvolver maneiras de se expressar."
+  }
+}
